@@ -4,7 +4,7 @@ services:
   mysqldb:
     image: mysql
     environment:
-      MYSQL_ROOT_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: yash
       MYSQL_DATABASE: product_db
       MYSQL_USER: yash
       MYSQL_PASSWORD: yash
